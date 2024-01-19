@@ -1,0 +1,27 @@
+.bg-blue {
+    background-color: rgb(15, 82, 119) !important;
+}
+
+.body {
+    background-image: url('./images/zodiac-signs-theme.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.bg-yellow {
+    background-color: rgb(174, 158, 75);
+    display: grid;
+    align-items: center;
+}
+
+.card {
+    background-color: rgb(174, 158, 75);
+}
+
+.btn-yellow {
+
+    background-color: rgb(174, 158, 75);
+}
+
+
+
